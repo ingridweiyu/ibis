@@ -8,3 +8,5 @@ Here we perform data analysis using Ibis on club dataset as a tutorial and we us
 Ibis official website: https://ibis-project.org/docs/3.2.0/#sql
 
 Ibis introduction: https://github.com/w4111/w4111.github.io/wiki/Ibis
+
+Requirement: ibis >= 3.2.0
